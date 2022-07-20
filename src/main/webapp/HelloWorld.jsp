@@ -11,16 +11,6 @@
 
 Changing String to upper case: <%= new String("Hello World!").toUpperCase()%>
 
-<br/><br/> 
 
-The time on the server is: <%= new java.util.Date() %>
-
-<br/><br/> 
-
-25 multiplied by 4 equals : <%= 25*4 %>
-
-<br/><br/> 
-
-Is 79 less than 69?: <%= 79<69 %>
 </body>
-</html>
+</html> 
